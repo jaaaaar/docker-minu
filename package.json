@@ -1,0 +1,6 @@
+{
+  "name": "myapp",
+  "scripts": {
+    "build": "echo 'Building app...' && mkdir -p dist && echo '<h1>Built App</h1>' > dist/index.html"
+  }
+}
